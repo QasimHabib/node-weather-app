@@ -1,0 +1,46 @@
+body {
+    color: #333333;
+    max-width: 650px;
+    margin: 0 auto;
+    font-family: arial;
+}
+
+footer {
+    color: #888888;
+    border-top: 2px solid #eeeeee;
+    margin-top: 16px;
+    padding: 16px 0;
+    position: fixed;
+    bottom: 20px;
+    
+}
+
+header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+h1{
+    font-size: 64px;
+}
+
+header a {
+    margin-right: 16px;  
+    color: #888888;
+    text-decoration: none;
+}
+
+.portrait {
+    width: 220px;
+}
+input {
+    padding: 8px;
+    border: 1px solid #cccccc;
+}
+
+button {
+    padding: 8px;
+    border: 1px solid #888888;
+    cursor: pointer;
+    background: #888888;
+    color: white;
+}
